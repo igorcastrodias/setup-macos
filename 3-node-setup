@@ -1,0 +1,11 @@
+#Add node@10 first in your PATH
+export PATH="/usr/local/opt/node@10/bin:$PATH"
+
+sudo npm install -g gulp
+sudo npm install -g yo
+sudo npm install -g jshint
+sudo npm install -g @microsoft/generator-sharepoint
+sudo npm install -g @pnp/office365-cli
+sudo npm install -g generator-office
+sudo npm install -g generator-teams
+sudo npm install -g json-server

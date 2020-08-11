@@ -1,0 +1,15 @@
+code --install-extension docsmsft.docs-markdown
+code --install-extension docsmsft.docs-preview
+code --install-extension idleberg.emoji-code
+code --install-extension ms-dotnettools.csharp
+code --install-extension ms-mssql.mssql
+code --install-extension ms-vscode.vscode-typescript-tslint-plugin
+code --install-extension ms-vscode.wordcount
+code --install-extension ms-vsts.team
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension msjsdiag.debugger-for-edge
+code --install-extension tomlm.vscode-adaptivecards
+code --install-extension teamsdevapp.ms-teams-vscode-extension
+code --install-extension ms-vscode.powershell
+code --install-extension ms-vscode-remote.remote-ssh
+code --install-extension ms-vscode.vscode-node-azure-pack
